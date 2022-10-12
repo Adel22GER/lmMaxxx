@@ -29,4 +29,4 @@
 
 <hr>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=immaxxx&area=true&hide_border=true&theme=gotham)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ImMaxxx&area=true&hide_border=true&theme=gotham)
