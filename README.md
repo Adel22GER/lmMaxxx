@@ -29,4 +29,5 @@
 <hr>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dieserbenni&area=true&hide_border=true&theme=gotham)
-                                                                                                                               
+
+<hr>
