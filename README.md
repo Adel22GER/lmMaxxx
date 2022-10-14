@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'mMaxxx 🏌️</h1>
+<h1 align="center">Hey, I'mMaxxx 😄</h1>
 
 
 <hr>
