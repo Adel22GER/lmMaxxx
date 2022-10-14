@@ -28,5 +28,4 @@
 
 <hr>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dieserbenni&area=true&hide_border=true&theme=gotham)
-<img src="https://activity-graph.herokuapp.com/graph?username=dieserbenni&area=true&hide_border=true&theme=gotham" alt="lmMaxxx's Stats"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=lmMaxxx&area=true&hide_border=true&theme=gotham" alt="lmMaxxx's Stats"/>
