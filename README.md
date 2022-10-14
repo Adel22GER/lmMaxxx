@@ -4,7 +4,7 @@
 <hr>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=immaxxx&show_icons=true&theme=codeSTACKr&count_private=true&include_all_commits=true&custom_title=Stats&hide=issues,stars" alt="Tomi's Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=lmMaxxx&show_icons=true&theme=codeSTACKr&count_private=true&include_all_commits=true&custom_title=Stats&hide=issues,stars" alt="lmMaxxx's Stats"/>
 
 <hr>
 
@@ -28,4 +28,4 @@
 
 <hr>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ImMaxxx&area=true&hide_border=true&theme=gotham)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lmMaxxx&area=true&hide_border=true&theme=gotham)
